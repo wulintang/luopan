@@ -119,7 +119,7 @@ li {
 #shade {
   position: absolute;
   list-style-type: none;
-  background: rgba(11, 87, 187, 0.7);
+  background: #d14836;
   width: 75%;
   height: 2%;
   left: 40%;
